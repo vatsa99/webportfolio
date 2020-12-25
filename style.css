@@ -692,9 +692,24 @@ footer span a:hover{
     .about .about-content .right{
         flex: 100%;
     }
-    .services .serv-content .card{
+    .qualification .quali-content .card{
         width: calc(50% - 10px);
         margin-bottom: 20px;
+    }
+    .qualification .quali-content .card2 {
+        width: calc(50% - 10px);
+        margin-bottom: 20px;
+        padding: 32px 25px;
+    }
+    .qualification .quali-content .card3 {
+        width: calc(50% - 10px);
+        margin-bottom: 20px;
+    }
+    .qualification .quali-content .card4 {
+        width: calc(50% - 10px);
+        margin-bottom: 20px;
+        margin-top: 0px;
+        margin-left: 0px;
     }
     .skills .skills-content .column,
     .contact .contact-content .column{
@@ -716,8 +731,18 @@ footer span a:hover{
     .home .home-content a{
         font-size: 20px;
     }
-    .services .serv-content .card{
+    .qualification .quali-content .card{
         width: 100%;
+    }
+    .qualification .quali-content .card2 {
+        width: 100%;
+    }
+    .qualification .quali-content .card3 {
+        width: 100%;
+    }
+    .qualification .quali-content .card4 {
+        width: 100%;
+        margin-left: 0px;
     }
 }
 
